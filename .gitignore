@@ -6,6 +6,9 @@ riderModule.iml
 /_ReSharper.Caches/
 **/.idea/
 *.user
+backend/.vs/
+Migrations/
+
 # Python
 **/__pycache__/
 **/venv/
